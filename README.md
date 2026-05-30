@@ -5,10 +5,12 @@
 
 
 ---
-
 ## 📸 پیش‌نمایش | Preview
 
-<a href="https://uploadkon.ir/" target="_blank" title="https://uploadkon.ir/"><img src="https://uploadkon.ir/uploads/39ed30_26Screenshot-20260530-114116-Chrome.jpg" border="0" alt="https://uploadkon.ir/uploads/39ed30_26Screenshot-20260530-114116-Chrome.jpg" /></a>
+<div align="center">
+  <img src="https://i.imgur.com/wh5axlb.jpeg" alt="TherapyMind Screenshot" width="800"/>
+  <p><em>تحلیل لحظه‌ای افکار منفی و ارائه بازسازی شناختی برای ۶ اختلال رایج</em></p>
+</div>
 
 ---
 
